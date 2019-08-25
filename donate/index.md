@@ -11,12 +11,20 @@ Note that donations are not tax-deductible.
 
 ## Direct Cryptocurrency Donations
 
-The Namecoin Marketing and Development Fund (operated by Phelix) accepts donations via Bitcoin and Namecoin.
+The Namecoin Marketing and Development Fund (operated by Phelix) accepts donations via Bitcoin, Namecoin and Lightning Network.
+
+### On Chain Transactions
 
 * BTC: 18kYBKu2pvj9XRRaAfUMbkm72QniwW2Dre
 * NMC: NDtPuyg3adscr6HCE1GUiSsKPtA8ewKgz3
 
 Warnings: Bitcoin and Namecoin do not provide anonymity for donations, although they may (under some circumstances) provide pseudonymity or location-anonymity.
+
+### Lightning Network Transactions
+
+// Insert here your QRCode for payments (you can setup QRCodes with amount set to 0 to allow user to decide which amount to set on the transaction)
+
+Infos: Bitcoin Lightning Network provide better anonimity for donations with respect to Bitcoin and Namecoin on chain tranasactions.
 
 ## Issue/Task-Specific Cryptocurrency Donations
 
